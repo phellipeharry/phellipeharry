@@ -12,12 +12,12 @@
 
   ### 📊 Minhas Estatísticas
   
-  <p>
-    <div align="center">
-      <img height="180" src="https://github-readme-stats.vercel.app/api?username=phellipeharry&show_icons=true&theme=tokyonight" />
+  <div align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=phellipeharry&show_icons=true&theme=tokyonight&include_all_commits=true" />
       <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phellipeharry&layout=compact&theme=tokyonight" />
-    </div>
-  </p>
+    </a>
+  </div>
 
   ---
 
@@ -46,9 +46,6 @@
   </a> 
   <a href="https://instagram.com/phellipeharry" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-  <a href="https://discord.com" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
   </a>
 
   ---
