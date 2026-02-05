@@ -9,15 +9,11 @@
   </p>
 
   ---
-
+  
   ### 📊 Minhas Estatísticas
   
-  <div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="180" src="https://github-readme-stats.vercel.app/api?username=phellipeharry&show_icons=true&theme=tokyonight&include_all_commits=true" />
-      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phellipeharry&layout=compact&theme=tokyonight" />
-    </a>
-  </div>
+  ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=phellipeharry&show_icons=true&theme=tokyonight)
+  ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=phellipeharry&layout=compact&theme=tokyonight)
 
   ---
 
