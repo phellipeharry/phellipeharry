@@ -1,6 +1,6 @@
 <div align="center">
   
-  # Bem-Vindo! 🤩
+  # Bem-Vindo! 
 
   <p>
     Meu nome é <strong>Phellipe Harry</strong>. Tenho 21 anos e sou estudante de Engenharia de Software. 
@@ -10,14 +10,14 @@
 
   ---
   
-  ### 📊 Minhas Estatísticas
+  ###  Minhas Estatísticas
   
   ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=phellipeharry&show_icons=true&theme=tokyonight)
   ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=phellipeharry&layout=compact&theme=tokyonight)
 
   ---
 
-  ### 🛠️ Linguagens e Tecnologias
+  ###  Linguagens e Tecnologias
   
   <div style="display: inline_block">
     <img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -35,7 +35,7 @@
 
   ---
 
-  ### 📫 Redes Sociais
+  ###  Redes Sociais
   
   <a href="https://www.linkedin.com/in/phellipeharry" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
@@ -46,7 +46,7 @@
 
   ---
 
-  ### 🐍 Histórico de Contribuições
+  ###  Histórico de Contribuições
   
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phellipeharry/phellipeharry/output/github-contribution-grid-snake-dark.svg">
