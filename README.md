@@ -11,10 +11,18 @@
   ---
   
   ###  Minhas Estatísticas
-  
-  ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=phellipeharry&show_icons=true&theme=tokyonight)
-  ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=phellipeharry&layout=compact&theme=tokyonight)
-
+   <div align="center">
+    <img
+      width="300"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PhellipeHarry&theme=github_dark"
+      alt="General stats"
+    />
+    <img
+      width="300"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PhellipeHarry&theme=github_dark"
+      alt="Top languages"
+    />
+  </div>
   ---
 
   ###  Linguagens e Tecnologias
